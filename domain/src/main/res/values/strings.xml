@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_network">Failed to execute GraphQL http network request</string>
+    <string name="error_network_ru">Не удалось выполнить сетевой запрос.</string>
+    <string name="error_http">Expected URL scheme \'http\' or \'https\' but no colon was found</string>
+    <string name="error_http_ru">Ошибка адреса.</string>
+    <string name="error_uncorrect">Http request failed with status code `405`</string>
+    <string name="error_uncorrect_ru">Не корректный запрос</string>
+    <string name="error_else">Неизвестная ошибка</string>
+</resources>
